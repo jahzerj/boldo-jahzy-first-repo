@@ -15,10 +15,10 @@
 - Fourth
 
 ### Links
-[My Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
+![My Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
 
 ### Images
-[This is a monkey](https://pasa.org/wp-content/uploads/2021/03/Vervet-Monkey-Foundation-credit-Kyle-2.jpg)
+![This is an AI generated monkey](https://pasa.org/wp-content/uploads/2021/03/Vervet-Monkey-Foundation-credit-Kyle-2.jpg)
 
 ## Code
 
